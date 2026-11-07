@@ -1,0 +1,8 @@
+{
+  "model_name": "pritamdeka/S-PubMedBert-MS-MARCO",
+  "vector_dimensions": 768,
+  "total_codes": 74719,
+  "index_type": "IndexFlatIP",
+  "normalized": true,
+  "batch_size": 64
+}
